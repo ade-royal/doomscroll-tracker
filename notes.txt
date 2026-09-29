@@ -1,0 +1,22 @@
+doomscroll-tracker/
+├── src/
+│   ├── vision/
+│   │   ├── face_tracker.py
+│   │   ├── eye_tracker.py
+│   │   └── gaze_estimator.py
+│   ├── tracking/
+│   │   ├── session.py
+│   │   └── metrics.py
+│   ├── ui/
+│   │   └── ...
+│   └── main.py
+├── tests/
+│   └── ...
+├── data/
+│   └── .gitkeep
+├── requirements.txt
+├── .gitignore
+├── README.md
+└── AGENTS.md
+
+need to make the rest of the py files, (face_tracker, eye_tracker, gaze_estimator, session.py, metrics.py)
